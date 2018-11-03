@@ -66,7 +66,7 @@
 #define DE_DOT KC_DOT
 #define DE_COMM KC_COMM
 
-#define DE_SS KC_MINS
+#define DE_SZ KC_MINS
 #define DE_AE KC_QUOT
 #define DE_UE KC_LBRC
 #define DE_OE KC_SCLN
@@ -90,7 +90,7 @@
 #define DE_LPRN LSFT(KC_8) // (
 #define DE_RPRN LSFT(KC_9) // )
 #define DE_EQL  LSFT(KC_0) // =
-#define DE_QST  LSFT(DE_SS) // ?
+#define DE_QST  LSFT(DE_SZ) // ?
 #define DE_GRV  LSFT(DE_ACUT) // `
 #define DE_ASTR LSFT(DE_PLUS) // *
 #define DE_QUOT LSFT(DE_HASH) // '
@@ -106,7 +106,7 @@
 #define DE_LBRC ALGR(KC_8) // [
 #define DE_RBRC ALGR(KC_9) // ]
 #define DE_RCBR ALGR(KC_0) // }
-#define DE_BSLS ALGR(DE_SS) // backslash
+#define DE_BSLS ALGR(DE_SZ) // backslash
 #define DE_AT  ALGR(KC_Q) // @
 #define DE_EURO ALGR(KC_E) // €
 #define DE_TILD ALGR(DE_PLUS) // ~
