@@ -1,12 +1,12 @@
 # PROTO_TYPE_S01
 
-![S01](http://i.imgur.com/q2M3uEU.jpg)
+![S01](https://i.imgur.com/9LEOgjA.png)
 
 A numpad or ortholinear macropad (4x5) soldering kit made and sold by PROTO_TYPE.
 
 * Keyboard Maintainer: [Henning Marxen](https://github.com/HMarxen)
-* Hardware Availability: [proto-type.eu](https://proto-type.eu)
-* Detailed Build Instructions: [proto-type.eu/S01_build_instructions](https://proto-type.eu/S01_build_instructions)
+* Hardware Availability: [proto-type.eu](http://proto-type.eu)
+* Detailed Build Instructions: [proto-type.eu/S01_build_instructions](http://proto-type.eu/S01_build_instructions)
 
 Make the example keymap for this keyboard (after setting up your build environment):
 
